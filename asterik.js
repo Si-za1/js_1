@@ -4,6 +4,7 @@ const asterikPattern=(n)=> {
         for (j=1;j<=i;j++){
             line+="* ";
         }
+        
         console.log(line);
     }
 }
